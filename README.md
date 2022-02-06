@@ -1,13 +1,15 @@
-## Hello there, my name is Ubiratan!
+## Hello there, I'm Ubiratan!
 ### Welcome to my GitHub Profile 👋
 
-- 💻 I'm studying Computer Engineering at Instituto Mauá de Tecnologia.
+- 💻 I'm currently pursuing my *Bachelor's in Computer Engineering* at Instituto Mauá de Tecnologia.
 - 🌱 I’m currently learning a lot about Data Science and AI.
 - 👯 I’m an University Monitor of the course Algorithms and Programming, at Instituto Mauá de Tecnologia, where I assist and teach students to solve doubts about programming problems and projects in Python.
 - 🤔 I’m looking for help mostly with Data Science and AI.
 - 💬 Ask me about anything, especially about NBA basketball and Jazz 😅
 - ⚡ Fun Fact: I have an Piano YouTube channel!
 - 📫 How to reach me: ubfilho16@gmail.com
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#ubiratanfilho&theme=dracula&hide_border=true)
 
 ### Social Medias:
 
@@ -34,3 +36,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ubiratanfilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## Stats📈
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#ubiratanfilho&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#ubiratanfilho&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#your-username&theme=highcontrast&hide_border=true" alt="#ubiratanfilho" />
+</p>
