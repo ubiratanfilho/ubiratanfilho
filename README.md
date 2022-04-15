@@ -1,37 +1,43 @@
-## Hello there, I'm Ubiratan!
-### Welcome to my GitHub Profile 👋
+### Hey there, I'm Ubiratan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 💻 I'm currently pursuing my *Bachelor's in Computer Engineering* at Instituto Mauá de Tecnologia.
-- 🌱 I’m currently learning a lot about Data Science and AI.
-- 👯 I’m an University Monitor of the course Algorithms and Programming, at Instituto Mauá de Tecnologia, where I assist and teach students to solve doubts about programming problems and projects in Python.
-- 🤔 I’m looking for help mostly with Data Science and AI.
-- 💬 Ask me about anything, especially about NBA basketball and Jazz 😅
-- ⚡ Fun Fact: I have an Piano YouTube channel!
-- 📫 How to reach me: ubfilho16@gmail.com
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ubiratanfilho&theme=dracula&hide_border=true)
-
-### Social Medias:
+I'm a Computer Engineering Student that loves the field of Data Science and AI 🤖 and how we can use these massive tools to create a better world for all people 🌎. 
 
 <div>
+<a href="https://www.kaggle.com/ubiratanfilho" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ubiratanmotta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/bira.motta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/channel/UCQO0hnztkV4OJAD2cFn_2VA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/bira_motta1609" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
 </div>
 
+**Some facts about me**
+- 💻 I'm currently pursuing my *Bachelor's in Computer Engineering* at Instituto Mauá de Tecnologia.
+- 👯 I’m an University Monitor of the course Algorithms and Programming, at Instituto Mauá de Tecnologia, where I assist and teach students to solve doubts about programming problems and projects in Python.
+- ⚡Fun fact: I have an [piano YouTube Channel](https://www.youtube.com/channel/UCQO0hnztkV4OJAD2cFn_2VA)
+- 📫 How to reach me: ubfilho16@gmail.com
 
 ### Tools and Techs
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> 
-
-
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank"></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
 
 ### I'm learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
-
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank"></a>
 
 ## Stats📈
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ubiratanfilho&theme=dracula&hide_border=true)
 <div>
 <a href="https://github.com/ubiratanfilho">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubiratanfilho&layout=compact&langs_count=7&theme=dracula"/>
