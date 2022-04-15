@@ -2,12 +2,14 @@
 
 I'm a Computer Engineering Student that loves the field of Data Science and AI 🤖 and how we can use these massive tools to create a better world for all people 🌎. 
 
+<br>
 <div>
 <a href="https://www.kaggle.com/ubiratanfilho" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ubiratanmotta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/bira.motta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/bira_motta1609" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
 </div>
+<br>
 
 **Some facts about me**
 - 💻 I'm currently pursuing my *Bachelor's in Computer Engineering* at Instituto Mauá de Tecnologia.
@@ -35,11 +37,3 @@ I'm a Computer Engineering Student that loves the field of Data Science and AI �
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank"></a>
-
-## Stats📈
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ubiratanfilho&theme=dracula&hide_border=true)
-<div>
-<a href="https://github.com/ubiratanfilho">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubiratanfilho&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ubiratanfilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
