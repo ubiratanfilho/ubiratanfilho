@@ -1,4 +1,4 @@
-### Hey there, I'm Ubiratan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm Ubiratan ✌️
 
 I'm a Computer Engineering Student that loves the field of Data Science and AI 🤖 and how we can use these massive tools to create a better world for all people 🌎. 
 
