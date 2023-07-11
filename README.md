@@ -14,7 +14,7 @@ I'm a Computer Engineering Student that loves the field of Data Science and AI �
 **Some facts about me**
 - 💻 I'm currently pursuing my *Bachelor's in Computer Engineering* at Maua Institute of Technology.
 - 🛫 I'm a Data Analyst at Gol Intelligent Airlines.
-- ⚡Fun fact: I have an [piano YouTube Channel](https://www.youtube.com/channel/UCQO0hnztkV4OJAD2cFn_2VA)
+- ⚡Fun fact: I have a [piano YouTube Channel](https://www.youtube.com/channel/UCQO0hnztkV4OJAD2cFn_2VA)
 - 📫 How to reach me: ubfilho16@gmail.com
 
 ### Tools and Techs
