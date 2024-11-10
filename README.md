@@ -1,6 +1,6 @@
 ### Hey there, I'm Ubiratan ✌️
 
-I'm a Computer Engineering Student that loves the field of AI and Data Analytics 🤖📊 and how we can use these massive tools to create a better world for all people 🌎. 
+I'm a Computer Engineering that loves the field of AI and Data Analytics 🤖📊 and how we can use these massive tools to create a better world for all people 🌎. 
 
 <br>
 <div>
@@ -11,7 +11,7 @@ I'm a Computer Engineering Student that loves the field of AI and Data Analytics
 <br>
 
 ### Some facts about me
-- 💻 I'm currently pursuing my *Bachelor's in Computer Engineering* at Maua Institute of Technology.
+- 💻 Bachelor's in Computer Engineering at Maua Institute of Technology.
 - 📈 I'm an Analytics Engineer at XP Inc.
 - 📫 How to reach me: ubfilho16@gmail.com
 
