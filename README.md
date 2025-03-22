@@ -12,7 +12,7 @@ I'm a Computer Engineering that loves the field of AI and Data Analytics 🤖�
 
 ### Some facts about me
 - 💻 Bachelor's in Computer Engineering at Maua Institute of Technology.
-- 📈 I'm an Analytics Engineer at XP Inc.
+- 📈 I'm a Data Scientist at Hotmart.
 - 📫 How to reach me: ubfilho16@gmail.com
 
 ### Languages
