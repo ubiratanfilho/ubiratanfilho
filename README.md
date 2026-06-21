@@ -11,5 +11,5 @@ I'm a Computer Engineering that loves the field of AI and Data Analytics 🤖�
 
 ### Some facts about me
 - 💻 Bachelor's in Computer Engineering at Maua Institute of Technology.
-- 📈 I'm a Data Scientist at Hotmart.
+- 📈 I'm a Machine Learning Engineer at Nubank.
 - 📫 How to reach me: ubfilho16@gmail.com
