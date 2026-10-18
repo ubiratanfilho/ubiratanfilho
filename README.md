@@ -1,6 +1,4 @@
-### Hey there, I'm Ubiratan ✌️
-
-I'm a Computer Engineering that loves the field of AI and Data Analytics 🤖📊 and how we can use these massive tools to create a better world for all people 🌎. 
+I'm a Computer Engineering that loves the field of AI and Engineering and how we can use these massive tools to create a better world for all people. 
 
 <br>
 <div>
